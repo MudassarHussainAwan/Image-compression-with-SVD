@@ -1,5 +1,5 @@
 # Image-compression-with-SVD
-The following [script](/SVD.m) is a matlab script that applies image configuration using singular value decomposition. Refer to the [report](/Report.pdf) for deatails on SVD.
+The following [script](/SVD.m) is a matlab script that applies image compression using singular value decomposition. Refer to the [report](/Report.pdf) for deatails on SVD.
 This project is an assignment completed during the course Linear algebra for large scale systems.
 The following figure shows the orignal image and the corresponding grey scale:
 ![](images/image1.png)
